@@ -120,7 +120,7 @@ ai_corpus/, source_data/   experimental pipeline and source databases; the model
 ## Data, privacy and provenance
 
 - The axis seeds are common phrases that I chose; I defined the axes and what each one means (`meta.source = first_version`); `axis_seed_lucia.json` comes from my own bank (`author_bank`). The evaluation sets and the example tests use common phrases, reviewed by me.
-- Scripts and chats are texts of other people: use them only with permission. A character trained on a real person’s text reproduces how that person writes and needs that person’s consent.
+- Scripts and chats that are texts of other people or authored by others: use them only with permission. A character trained on a real person’s text reproduces how that person writes and needs that person’s consent.
 - `data/LCM_tables.json` was built with WordNet and SentiWordNet. See `NOTICE`.
 
 ## License

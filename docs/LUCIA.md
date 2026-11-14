@@ -249,8 +249,8 @@ The margin is informative; the similarity is flat. That is why `BankBot` uses th
 Per-pair weights, +25% when the chosen reply had the right axis, -20% otherwise, 3 passes (leave-one-out): held-out same-axis **30% -> 34%**. Reward rate on training prompts at the last pass: 46%.
 The test is optimistic (the reward used the gold axis). A weight per pair only re-ranks pairs that retrieval already finds, and retrieval is the weak part. A reward would have to act on the classifier and come from real human feedback.
 
-## 8. Checks of lcm_forge and of the paper (`experiments/forge_checks.py`)
-The paper is "Training of the Language Coherence Model (LCM)", v1.1. Data: the Lucia bank, which `lcm_forge` never saw.
+## 8. Checks of lcm_forge and of the prototype paper (`experiments/forge_checks.py`)
+The private prototype paper is "Training of the Language Coherence Model (LCM)", v1.1. Data: the Lucia bank, which `lcm_forge` never saw.
 
 | claim | result |
 |---|---|

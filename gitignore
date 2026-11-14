@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.DS_Store
+
+# outputs of the examples in the README
+forge_db.json
+overlay_related.json
+
+# Baked WordNet data (about 2.5 MB): either commit it, so that users skip the bake step,
+# or leave this line active and let each user run tools/bake_wordnet.py.
+# data/wordnet_baked.json

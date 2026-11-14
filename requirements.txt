@@ -1,0 +1,5 @@
+# RUNTIME: none. The LCM v2 only uses the Python standard library (3.8+).
+#
+# BUILD-TIME ONLY (to regenerate data files; never needed to run the LCM):
+#   nltk       python tools/setup_nltk.py ; python tools/bake_wordnet.py ; python tools/build_tables.py
+#   openpyxl   to read / write the Excel sheets (tools/build_vocabulary_sheet.py)

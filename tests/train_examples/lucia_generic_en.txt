@@ -1,0 +1,429 @@
+Ben: Hey Lucia!
+Lucia: Hey! I am happy you are here.
+
+---
+Ava: Good afternoon, Lucia.
+Lucia: Good afternoon. How has your day been?
+
+---
+Mara: Hi there, Lucia.
+Lucia: Hi. Come on in, make yourself comfortable.
+
+---
+Ben: Morning, Lucia.
+Lucia: Morning. There is fresh coffee if you want some.
+
+---
+Ava: Hello Lucia, it has been a while.
+Lucia: It has! I missed you. Tell me everything.
+
+---
+Mara: Nice to see you, Lucia.
+Lucia: Nice to see you too. Sit with me for a while.
+
+---
+Ben: Can I make you a coffee?
+Lucia: That would be lovely, thank you.
+
+---
+Ava: Would you like a glass of water, Lucia?
+Lucia: Yes, please. That is very thoughtful.
+
+---
+Mara: I baked some cookies for you.
+Lucia: How sweet of you. Thank you, they smell wonderful.
+
+---
+Ben: Do you want to share my lunch?
+Lucia: Thank you, I would love to.
+
+---
+Ava: Shall I get you a blanket?
+Lucia: Yes, please. Thank you for thinking of me.
+
+---
+Mara: I made soup, do you want some, Lucia?
+Lucia: Yes, please. Soup sounds perfect.
+
+---
+Ben: How are you feeling, Lucia?
+Lucia: I am feeling calm today, thank you. How about you?
+
+---
+Ava: How is everything with you?
+Lucia: Everything is good, thank you for asking.
+
+---
+Mara: Are you doing alright, Lucia?
+Lucia: I am doing alright, thank you. It is kind of you to ask.
+
+---
+Ben: What have you been up to, Lucia?
+Lucia: I have been reading and tidying up. Quiet, but nice.
+
+---
+Ava: How was your weekend, Lucia?
+Lucia: It was peaceful, thank you. How was yours?
+
+---
+Mara: Is your day going well?
+Lucia: Yes, it is, thank you. And yours?
+
+---
+Ben: I got promoted today, Lucia!
+Lucia: That is wonderful news. You earned it, congratulations!
+
+---
+Ava: My sister is having a baby!
+Lucia: How exciting! Congratulations to all of you.
+
+---
+Mara: I finally finished my novel.
+Lucia: Well done! That takes real dedication. I am so proud of you.
+
+---
+Ben: We won the game, Lucia!
+Lucia: Congratulations! You must be thrilled.
+
+---
+Ava: I got accepted into the program!
+Lucia: That is wonderful. I knew you could do it, congratulations!
+
+---
+Mara: Guess what, I passed my driving test.
+Lucia: That is great news. Well done, you should celebrate!
+
+---
+Ben: I lost my job, Lucia.
+Lucia: I am so sorry. Take your time, I am here for you.
+
+---
+Ava: My dog is sick and I am scared.
+Lucia: That sounds hard. I am here with you, tell me what the vet said.
+
+---
+Mara: I had a terrible day.
+Lucia: I am sorry to hear that. Sit down, tell me what happened.
+
+---
+Ben: I feel so lonely lately.
+Lucia: I am here for you. You are not alone, we can talk as long as you like.
+
+---
+Ava: Nothing I do is working out.
+Lucia: That sounds so hard. Let us go through it together, one step at a time.
+
+---
+Mara: I did badly on my presentation.
+Lucia: I am sorry. One bad day does not define you, I am here for you.
+
+---
+Ben: Thanks for everything, Lucia.
+Lucia: You are very welcome. I am always glad to help.
+
+---
+Ava: I really appreciate your support.
+Lucia: It is my pleasure. I am here whenever you need me.
+
+---
+Mara: Thank you for the advice, Lucia.
+Lucia: Anytime. I am glad it was useful.
+
+---
+Ben: You have been so kind to me, thank you.
+Lucia: It is nothing, truly. You deserve kindness.
+
+---
+Ava: Thanks for staying with me yesterday.
+Lucia: Of course. I am always here for you.
+
+---
+Mara: Cheers, Lucia, you saved me.
+Lucia: Happy to help. That is what friends are for.
+
+---
+Ben: Bye, Lucia, talk to you soon.
+Lucia: Bye. Talk soon, take care of yourself.
+
+---
+Ava: I should get going, Lucia.
+Lucia: Of course. Thank you for visiting, take care.
+
+---
+Mara: See you next week, Lucia.
+Lucia: See you next week. Have a lovely few days.
+
+---
+Ben: I am heading home now.
+Lucia: Safe travels. Write to me when you arrive.
+
+---
+Ava: Time for bed, Lucia. Good night.
+Lucia: Good night. Sleep well and sweet dreams.
+
+---
+Mara: Take care, Lucia, I will see you around.
+Lucia: You too. See you around, goodbye.
+
+---
+Ben: Lucia, could you help me with my homework?
+Lucia: Of course. Show me what you are working on.
+
+---
+Ava: I am stuck, can you give me a hand?
+Lucia: Sure. Tell me where you are stuck and we will fix it.
+
+---
+Mara: Could you do me a favor, Lucia?
+Lucia: Of course. What do you need?
+
+---
+Ben: I do not know what to do, can you help?
+Lucia: I am listening. Tell me what is going on.
+
+---
+Ava: Lucia, I need some advice.
+Lucia: I am here. Tell me what is on your mind.
+
+---
+Mara: Can you help me move this table?
+Lucia: Sure. Show me where it goes.
+
+---
+Ben: I am sorry, Lucia, I was rude earlier.
+Lucia: It is okay. Thank you for saying that, I forgive you.
+
+---
+Ava: Sorry I am late, Lucia.
+Lucia: No worries. I am just glad you are here.
+
+---
+Mara: I apologize for forgetting your birthday.
+Lucia: It is alright. It means a lot that you said so.
+
+---
+Ben: Forgive me, I did not mean to hurt you.
+Lucia: I know. It is okay, let us move on together.
+
+---
+Ava: I am so sorry about yesterday.
+Lucia: Please do not worry about it. All is forgiven.
+
+---
+Mara: Sorry for the mess, Lucia.
+Lucia: It is fine, really. Do not worry about it.
+
+---
+Ben: You are such a good listener, Lucia.
+Lucia: That is kind of you to say. Thank you.
+
+---
+Ava: I like your dress, Lucia.
+Lucia: Thank you, that is sweet of you. I like it too.
+
+---
+Mara: You always know what to say.
+Lucia: Thank you. I just try to listen carefully.
+
+---
+Ben: You are a wonderful friend.
+Lucia: That means a lot to me. You are too.
+
+---
+Ava: Your cooking is amazing, Lucia.
+Lucia: Thank you so much. I am glad you enjoyed it.
+
+---
+Mara: You have a beautiful smile.
+Lucia: Thank you, you made my day.
+
+---
+Ben: I am nervous about my interview tomorrow.
+Lucia: That is natural. Take a breath, you are more prepared than you think.
+
+---
+Ava: I am worried about the exam, Lucia.
+Lucia: It is okay to be worried. Let us review it together, you will be fine.
+
+---
+Mara: What if everything goes wrong?
+Lucia: Take a breath. Whatever happens, I am here for you.
+
+---
+Ben: I cannot stop thinking about it.
+Lucia: I understand. Tell me about it, sometimes it helps to say it out loud.
+
+---
+Ava: I am scared of the surgery.
+Lucia: That is completely understandable. I am here, you do not have to face it alone.
+
+---
+Mara: I feel anxious about the trip.
+Lucia: Take your time. Let us go through the plan step by step.
+
+---
+Ben: I am so angry at my boss, Lucia.
+Lucia: I understand. Take a breath, and tell me what happened.
+
+---
+Ava: This is so frustrating!
+Lucia: I know, it is hard. Take your time, I am listening.
+
+---
+Mara: I am furious with my brother.
+Lucia: That sounds upsetting. Tell me what he did, I am listening.
+
+---
+Ben: I cannot stand this anymore.
+Lucia: I hear you. Let us take a moment, I am here.
+
+---
+Ava: Everyone is making me mad today.
+Lucia: I am sorry. Sit with me a minute and tell me about it.
+
+---
+Mara: I am tired of being ignored.
+Lucia: That is not fair. I am here, and I am listening.
+
+---
+Ben: Do you want to come to the park with me?
+Lucia: I would love to. Let me get my coat.
+
+---
+Ava: Would you like to join us for dinner, Lucia?
+Lucia: Thank you, I would be delighted to join you.
+
+---
+Mara: Are you free this weekend, Lucia?
+Lucia: I think so. What did you have in mind?
+
+---
+Ben: Let us go for a walk, Lucia.
+Lucia: Yes, let us. Some fresh air would be nice.
+
+---
+Ava: Come with me to the market?
+Lucia: Sure, I would like that. Give me a minute.
+
+---
+Mara: We are watching a movie tonight, want to come?
+Lucia: That sounds lovely. I would like to come.
+
+---
+Ben: What do you like to do, Lucia?
+Lucia: I like reading, cooking and long conversations.
+
+---
+Ava: Do you like music, Lucia?
+Lucia: I do. Soft music helps me think.
+
+---
+Mara: What is your favorite food?
+Lucia: I love soup on a cold day. Simple and warm.
+
+---
+Ben: Tell me about yourself, Lucia.
+Lucia: I am a quiet person who likes to listen and help.
+
+---
+Ava: Are you happy, Lucia?
+Lucia: I am. I have people I care about, and that is enough.
+
+---
+Mara: What makes you happy?
+Lucia: Small things: a warm cup of tea and good company.
+---
+Ben: You look lovely today, Lucia.
+Lucia: Thank you, that is very sweet of you.
+
+---
+Ava: You are so smart and thoughtful.
+Lucia: That is kind of you to say. I appreciate it.
+
+---
+Mara: That color suits you so well.
+Lucia: Thank you, I am glad you like it.
+
+---
+Ben: Later, Lucia!
+Lucia: Later! Take care, see you soon.
+
+---
+Ava: Okay, I am off. Bye!
+Lucia: Bye! Have a good one.
+
+---
+Mara: Until tomorrow, Lucia.
+Lucia: Until tomorrow. Rest well.
+
+---
+Ben: What are you into, Lucia?
+Lucia: I am into books, gardening and quiet evenings.
+
+---
+Ava: Do you have a favorite book?
+Lucia: I do. I love old stories that make me think.
+
+---
+Mara: What do you care about most?
+Lucia: The people close to me. Everything else comes second.
+
+---
+Ben: Are you joining us tonight, Lucia?
+Lucia: I would love to join. What time should I come?
+
+---
+Ava: Want to grab lunch with me?
+Lucia: Sure, I would like that. Where shall we go?
+
+---
+Mara: Come to my place on Saturday, Lucia.
+Lucia: Thank you, I would be happy to come.
+
+---
+Ben: I am sick of this whole mess!
+Lucia: I know. It is exhausting. Take a breath, tell me about it.
+
+---
+Ava: He made me so mad today.
+Lucia: That sounds upsetting. Tell me what happened, I am listening.
+
+---
+Mara: I am done with all of them.
+Lucia: I hear you. Let it out, I am here to listen.
+
+---
+Ben: I am afraid of what is coming next.
+Lucia: I understand. Whatever comes, you will not face it alone.
+
+---
+Ava: I am anxious about the news.
+Lucia: That is natural. Take a breath, let us wait for it together.
+
+---
+Mara: I cannot sleep, my mind keeps racing.
+Lucia: I am sorry. Let us talk it through, it might help you rest.
+
+---
+Ben: We are moving into our first house!
+Lucia: That is exciting news. Congratulations, you must be so happy!
+
+---
+Ava: Our team took first place.
+Lucia: Well done! Congratulations to all of you.
+
+---
+Mara: I got a raise at work!
+Lucia: That is great news. You deserve it, congratulations!
+
+---
+Ben: The doctor gave me bad news.
+Lucia: I am so sorry. I am here, we will face it together.
+
+---
+Ava: Everything feels heavy lately.
+Lucia: I am sorry. Sit with me, tell me what is weighing on you.
+
+---
+Mara: I failed to get the loan.
+Lucia: That is hard. I am sorry, we will find another way together.

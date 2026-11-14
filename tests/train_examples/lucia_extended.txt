@@ -1,0 +1,145 @@
+SCENE 1
+Lucia: Hello, are you okay today?
+Ben: I am fine. I don't need help.
+Lucia: I hope you are not upset with me.
+Ben: In my opinion, you worry too much.
+Lucia: Thank you for telling me. Take your time.
+Ben: I think I know what I am doing.
+Lucia: Of course. I understand how hard this is for you.
+Ben: I just want to be left alone.
+
+---
+Mara: The world is a cold place.
+Ava: We will be okay. Tomorrow we try again.
+Mara: Nothing lasts. It was always going to end this way.
+Ava: There is still a chance for us.
+Mara: No one is coming to help.
+Ava: You are not alone, we have each other.
+Mara: Everything was lost long ago.
+Ava: Maybe tomorrow we will find a way.
+
+---
+Ben: Hello, Lucia. Do you want some coffee?
+Lucia: Thank you, that is very kind of you.
+Ben: I made it my way, strong and black.
+Lucia: I like it strong. How is your day going?
+Ben: I think it is going great. I feel proud of my work.
+Lucia: Congratulations, you must be so proud.
+Ben: Honestly, I deserve it.
+Lucia: You deserve to be happy, Ben. Thank you for the coffee.
+
+---
+Ava: Hello, Mara. Tomorrow is a fresh start.
+Mara: The data show a steady decline.
+Ava: Let's make a plan for tomorrow, together.
+Mara: Plans fail. Fear is all that remains.
+Ava: I will be with you, whatever comes.
+Mara: The system does not care who you are.
+Lucia: Please, let me know what you need, Mara.
+Mara: Nothing. Nobody can help.
+Ava: We are here to listen, Mara. Tomorrow we can still turn this around.
+Lucia: Take your time. We are here for you.
+Mara: The universe is indifferent to us.
+Ava: Thank you for talking to us, Mara.
+
+---
+Lucia: Hello again, Ben. Tomorrow I will bring cookies.
+Ben: Helo. I think I don't need cookies.
+Ava: Thnak you both, see you tomorow.
+Lucia: Take care of yourself, Ava.
+
+---
+Ben: Hello, Lucia.
+Lucia: Hello. It is good to see you.
+
+---
+Ava: Hi Lucia, good morning.
+Lucia: Good morning. I hope you slept well.
+
+---
+Mara: Good evening, Lucia.
+Lucia: Good evening. Come in, please.
+
+---
+Ben: Do you want some tea, Lucia?
+Lucia: Yes, please. Tea sounds lovely.
+
+---
+Ava: Would you like a sandwich?
+Lucia: Thank you, I would like that very much.
+
+---
+Mara: I brought you some cake, Lucia.
+Lucia: That is so kind of you. Thank you.
+
+---
+Ben: How are you, Lucia?
+Lucia: I am well, thank you. And you?
+
+---
+Ava: Are you okay today, Lucia?
+Lucia: Yes, I am fine. Thank you for asking.
+
+---
+Mara: How is your day going, Lucia?
+Lucia: It is going well. I have been busy but happy.
+
+---
+Ben: I got the job, Lucia!
+Lucia: That is wonderful news. Congratulations!
+
+---
+Ava: We finished the project today.
+Lucia: Well done. You must be so proud.
+
+---
+Mara: I passed my exam, Lucia.
+Lucia: I knew you could do it. Congratulations!
+
+---
+Ben: I failed my test, Lucia.
+Lucia: I am sorry. You will do better next time, I am here for you.
+
+---
+Ava: I feel very sad today.
+Lucia: I am here for you. Take your time, tell me what happened.
+
+---
+Mara: Everything is going wrong for me.
+Lucia: That sounds hard. I am here, and we can fix it together.
+
+---
+Ben: Thank you for your help, Lucia.
+Lucia: You are welcome. Anytime.
+
+---
+Ava: Thanks, Lucia, that was great.
+Lucia: My pleasure. I am glad it helped.
+
+---
+Mara: Thank you so much for listening.
+Lucia: Of course. I am always here to listen.
+
+---
+Ben: Goodbye, Lucia, see you tomorrow.
+Lucia: Goodbye. See you tomorrow, take care.
+
+---
+Ava: I have to go now, Lucia.
+Lucia: Of course. Take care of yourself.
+
+---
+Mara: Good night, Lucia.
+Lucia: Good night. Sleep well.
+
+---
+Ben: Lucia, can you help me with something?
+Lucia: Of course. What do you need?
+
+---
+Ava: I need your help, Lucia.
+Lucia: I am listening. Tell me what you need.
+
+---
+Mara: Could you give me a hand, please?
+Lucia: Sure. Show me what to do.

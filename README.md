@@ -107,13 +107,6 @@ experiments/         the measurements of the architecture paper on the Brown cor
 ai_corpus/, source_data/   experimental pipeline and source databases; the model does not depend on them
 ```
 
-## Papers
-
-- Aguilar Apolinario, P. A. (2026). *Cognitive Coherence Model (CCM), v1.*
-- Aguilar Apolinario, P. A. (2026). *Language Coherence Model (LCM): Architecture Paper, v1.*
-- Aguilar Apolinario, P. A. (2026). *Training of the Language Coherence Model (LCM), v1.1.*
-- Aguilar Apolinario, P. A. (2026). *Language Coherence Model (LCM): Architecture Paper, v2.*
-
 ## Known limitations
 
 - **`lite_nlp` equals spaCy only on what the tests encode** (about 63 distinct inputs). Free-form sentences are analyzed in a degraded way. The 98% of roles reported with spaCy has not been measured for v2.

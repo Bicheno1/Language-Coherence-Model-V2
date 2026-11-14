@@ -1,4 +1,4 @@
-"""Checks of what the lcm_forge README and the paper (Training of the LCM, v1.1, sections 3.5-3.7) claim, using the Lucia bank as data forge never saw.
+"""Checks of what the lcm_forge README and the private prototype paper (Training of the LCM, v1.1, sections 3.5-3.7) claim, using the Lucia bank as data forge never saw.
 
     python experiments/forge_checks.py --forge /path/to/lcm_forge_project
 
